@@ -39,7 +39,7 @@
     "style-loader": "^3.1.0",
     "webext-domain-permission-toggle": "^1.0.0",
     "webext-dynamic-content-scripts": "^6.0.3",
-    "webpack": "^5.45.1",
+    "webpack": "^5.76.0",
     "webpack-dev-server": "^3.11.2",
     "write-file-webpack-plugin": "^4.5.1"
   },
@@ -47,7 +47,7 @@
     "cross-env": "^5.2.0",
     "husky": "^0.13.4",
     "jest": "^27.0.6",
-    "sanitize-html": "^2.3.2",
+    "sanitize-html": "^2.12.1",
     "snazzy": "^7.0.0",
     "standard": "^16.0.3",
     "webstore-upload": "^0.0.8"
